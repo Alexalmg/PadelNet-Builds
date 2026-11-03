@@ -20,7 +20,7 @@
           "version": "0.5.0",
           "buildVersion": "13",
           "date": "2026-11-03T11:33:32Z",
-          "localizedDescription": "Calendario: conformidad @preconcurrency del delegado de EventKitUI",
+          "localizedDescription": "Añade tus partidos al calendario del iPhone (uno a uno o todos desde Configuración), «Cómo llegar» con Mapas, compartir el partido y la clasificación como imagen, historial cara a cara, filtro «Solo mis partidos», cuenta atrás del próximo partido y Siri: «¿Cuándo juego en PadelNet?» y «¿Cómo va mi equipo en PadelNet?».",
           "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
           "size": 4087990,
           "minOSVersion": "26.0"
@@ -37,7 +37,7 @@
       ],
       "version": "0.5.0",
       "versionDate": "2026-11-03T11:33:32Z",
-      "versionDescription": "Calendario: conformidad @preconcurrency del delegado de EventKitUI",
+      "versionDescription": "Añade tus partidos al calendario del iPhone (uno a uno o todos desde Configuración), «Cómo llegar» con Mapas, compartir el partido y la clasificación como imagen, historial cara a cara, filtro «Solo mis partidos», cuenta atrás del próximo partido y Siri: «¿Cuándo juego en PadelNet?» y «¿Cómo va mi equipo en PadelNet?».",
       "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
       "size": 4087990,
       "appPermissions": {
