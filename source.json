@@ -17,6 +17,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "0.5.0",
+          "buildVersion": "13",
+          "date": "2026-11-03T11:33:32Z",
+          "localizedDescription": "Calendario: conformidad @preconcurrency del delegado de EventKitUI",
+          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
+          "size": 4087990,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.4.1",
           "buildVersion": "11",
           "date": "2026-11-03T11:02:18Z",
@@ -26,17 +35,17 @@
           "minOSVersion": "26.0"
         }
       ],
+      "version": "0.5.0",
+      "versionDate": "2026-11-03T11:33:32Z",
+      "versionDescription": "Calendario: conformidad @preconcurrency del delegado de EventKitUI",
+      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
+      "size": 4087990,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Para elegir tu foto de perfil y el escudo del equipo."
         }
-      },
-      "version": "0.4.1",
-      "versionDate": "2026-11-03T11:02:18Z",
-      "versionDescription": "Versión sin la extensión de widgets para que solo use un Apple ID. Incluye el nuevo panel de inicio, el selector de servidor (Producción / Pruebas), la pantalla de permisos y la notificación de prueba.",
-      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.4.1-11/PadelNet.ipa",
-      "size": 3979933
+      }
     }
   ],
   "news": []
