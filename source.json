@@ -17,6 +17,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "0.6.0",
+          "buildVersion": "14",
+          "date": "2026-11-03T12:16:06Z",
+          "localizedDescription": "Novedades de la 0.6.0:\n• Chat en directo: chat de tu equipo, chat de cada enfrentamiento con el rival y la organización, y «Dudas de la liga» con los administradores. Nueva pestaña «Mensajes» con chats y avisos.\n• Registro con teléfono y foto de perfil opcional. Botones de WhatsApp y llamada para tus compañeros y el capitán rival.\n• Entrar con Google (aparece cuando el servidor lo tenga activado).\n• Pestaña Equipo: ves la plantilla de tus equipos de un vistazo y todos los demás equipos.\n• Solo puedes crear (y capitanear) un equipo.\n• Disponibilidad rediseñada: «Puedo / No puedo», cuántos jugadores hay y quién falta por responder.\n• Ascensos y descensos: el admin ve antes quién sube y quién baja.",
+          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.6.0-14/PadelNet.ipa",
+          "size": 4337964,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.5.0",
           "buildVersion": "13",
           "date": "2026-11-03T11:33:32Z",
@@ -35,11 +44,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.5.0",
-      "versionDate": "2026-11-03T11:33:32Z",
-      "versionDescription": "Añade tus partidos al calendario del iPhone (uno a uno o todos desde Configuración), «Cómo llegar» con Mapas, compartir el partido y la clasificación como imagen, historial cara a cara, filtro «Solo mis partidos», cuenta atrás del próximo partido y Siri: «¿Cuándo juego en PadelNet?» y «¿Cómo va mi equipo en PadelNet?».",
-      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
-      "size": 4087990,
+      "version": "0.6.0",
+      "versionDate": "2026-11-03T12:16:06Z",
+      "versionDescription": "Novedades de la 0.6.0:\n• Chat en directo: chat de tu equipo, chat de cada enfrentamiento con el rival y la organización, y «Dudas de la liga» con los administradores. Nueva pestaña «Mensajes» con chats y avisos.\n• Registro con teléfono y foto de perfil opcional. Botones de WhatsApp y llamada para tus compañeros y el capitán rival.\n• Entrar con Google (aparece cuando el servidor lo tenga activado).\n• Pestaña Equipo: ves la plantilla de tus equipos de un vistazo y todos los demás equipos.\n• Solo puedes crear (y capitanear) un equipo.\n• Disponibilidad rediseñada: «Puedo / No puedo», cuántos jugadores hay y quién falta por responder.\n• Ascensos y descensos: el admin ve antes quién sube y quién baja.",
+      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.6.0-14/PadelNet.ipa",
+      "size": 4337964,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
