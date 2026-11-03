@@ -1,0 +1,38 @@
+{
+  "name": "PadelNet",
+  "identifier": "com.alexalmg.padelnet.source",
+  "subtitle": "Ligas de pádel por equipos",
+  "iconURL": "https://raw.githubusercontent.com/Alexalmg/PadelNet-Builds/main/icon.png",
+  "website": "https://github.com/Alexalmg/PadelNet-Builds",
+  "tintColor": "#9EDB2E",
+  "apps": [
+    {
+      "name": "PadelNet",
+      "bundleIdentifier": "com.alexalmg.padelnet",
+      "developerName": "Alexalmg",
+      "subtitle": "Ligas de pádel por equipos",
+      "localizedDescription": "Equipos, ligas por divisiones, calendario, resultados con confirmación, actividad semanal y clasificación.",
+      "iconURL": "https://raw.githubusercontent.com/Alexalmg/PadelNet-Builds/main/icon.png",
+      "tintColor": "#9EDB2E",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "10",
+          "date": "2026-11-03T10:50:00Z",
+          "localizedDescription": "Servidor de pruebas seleccionable, nuevo panel de inicio y datos ficticios en un proyecto aparte",
+          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.4.0-10/PadelNet.ipa",
+          "size": 4024416,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Para elegir tu foto de perfil y el escudo del equipo."
+        }
+      }
+    }
+  ],
+  "news": []
+}
