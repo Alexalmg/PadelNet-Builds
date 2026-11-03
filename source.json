@@ -20,7 +20,7 @@
           "version": "0.4.1",
           "buildVersion": "11",
           "date": "2026-11-03T11:02:18Z",
-          "localizedDescription": "Quitar la extensión de Live Activities de la compilación (gasta un Apple ID); la app oculta esas opciones si no está",
+          "localizedDescription": "Versión sin la extensión de widgets para que solo use un Apple ID. Incluye el nuevo panel de inicio, el selector de servidor (Producción / Pruebas), la pantalla de permisos y la notificación de prueba.",
           "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.4.1-11/PadelNet.ipa",
           "size": 3979933,
           "minOSVersion": "26.0"
@@ -31,7 +31,12 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Para elegir tu foto de perfil y el escudo del equipo."
         }
-      }
+      },
+      "version": "0.4.1",
+      "versionDate": "2026-11-03T11:02:18Z",
+      "versionDescription": "Versión sin la extensión de widgets para que solo use un Apple ID. Incluye el nuevo panel de inicio, el selector de servidor (Producción / Pruebas), la pantalla de permisos y la notificación de prueba.",
+      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.4.1-11/PadelNet.ipa",
+      "size": 3979933
     }
   ],
   "news": []
