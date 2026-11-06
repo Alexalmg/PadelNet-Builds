@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.7.0",
+          "buildVersion": "18",
+          "date": "2026-11-06T09:51:40Z",
+          "localizedDescription": "Novedades de la 0.7.0:\n• PadelNet estrena imagen: colores de pegatina, letra nueva, icono nuevo, una pelota que bota al arrancar y botones que se hunden al pulsarlos.\n• Inicio renovado: tu próximo partido en una pista azul con cuenta atrás, tu nivel en pegatina y la racha a todo color.\n• Live Activities de vuelta: el marcador en la pantalla de bloqueo y en la Dynamic Island, con cuenta atrás. Si usas LiveContainer no aparecen, el resto funciona igual.\n• Avisos más útiles: 3 horas y 30 minutos antes de cada partido y, si eres capitán, después para meter el resultado. Mantén pulsado un aviso para ver el partido, abrir cómo llegar o posponerlo una hora.",
+          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.7.0-18/PadelNet.ipa",
+          "size": 4503158,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.7.0",
           "buildVersion": "17",
           "date": "2026-11-06T09:33:42Z",
           "localizedDescription": "Novedades de la 0.7.0:\n• PadelNet estrena imagen: colores de pegatina, letra nueva, icono nuevo, una pelota que bota al arrancar y botones que se hunden al pulsarlos.\n• Inicio renovado: tu próximo partido en una pista azul con cuenta atrás, tu nivel en pegatina y la racha a todo color.\n• Live Activities de vuelta: el marcador en la pantalla de bloqueo y en la Dynamic Island, con cuenta atrás. Si usas LiveContainer no aparecen, el resto funciona igual.\n• Avisos más útiles: 3 horas y 30 minutos antes de cada partido y, si eres capitán, después para meter el resultado. Mantén pulsado un aviso para ver el partido, abrir cómo llegar o posponerlo una hora.",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.5.0-13/PadelNet.ipa",
           "size": 4087990,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.4.1",
-          "buildVersion": "11",
-          "date": "2026-11-03T11:02:18Z",
-          "localizedDescription": "Versión sin la extensión de widgets para que solo use un Apple ID. Incluye el nuevo panel de inicio, el selector de servidor (Producción / Pruebas), la pantalla de permisos y la notificación de prueba.",
-          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.4.1-11/PadelNet.ipa",
-          "size": 3979933,
-          "minOSVersion": "26.0"
         }
       ],
       "version": "0.7.0",
-      "versionDate": "2026-11-06T09:33:42Z",
+      "versionDate": "2026-11-06T09:51:40Z",
       "versionDescription": "Novedades de la 0.7.0:\n• PadelNet estrena imagen: colores de pegatina, letra nueva, icono nuevo, una pelota que bota al arrancar y botones que se hunden al pulsarlos.\n• Inicio renovado: tu próximo partido en una pista azul con cuenta atrás, tu nivel en pegatina y la racha a todo color.\n• Live Activities de vuelta: el marcador en la pantalla de bloqueo y en la Dynamic Island, con cuenta atrás. Si usas LiveContainer no aparecen, el resto funciona igual.\n• Avisos más útiles: 3 horas y 30 minutos antes de cada partido y, si eres capitán, después para meter el resultado. Mantén pulsado un aviso para ver el partido, abrir cómo llegar o posponerlo una hora.",
-      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.7.0-17/PadelNet.ipa",
-      "size": 4503964,
+      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.7.0-18/PadelNet.ipa",
+      "size": 4503158,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
