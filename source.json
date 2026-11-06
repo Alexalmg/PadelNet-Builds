@@ -17,6 +17,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "17",
+          "date": "2026-11-06T09:33:42Z",
+          "localizedDescription": "Novedades de la 0.7.0:\n• PadelNet estrena imagen: colores de pegatina, letra nueva, icono nuevo, una pelota que bota al arrancar y botones que se hunden al pulsarlos.\n• Inicio renovado: tu próximo partido en una pista azul con cuenta atrás, tu nivel en pegatina y la racha a todo color.\n• Live Activities de vuelta: el marcador en la pantalla de bloqueo y en la Dynamic Island, con cuenta atrás. Si usas LiveContainer no aparecen, el resto funciona igual.\n• Avisos más útiles: 3 horas y 30 minutos antes de cada partido y, si eres capitán, después para meter el resultado. Mantén pulsado un aviso para ver el partido, abrir cómo llegar o posponerlo una hora.",
+          "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.7.0-17/PadelNet.ipa",
+          "size": 4503964,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.6.1",
           "buildVersion": "15",
           "date": "2026-11-03T13:47:22Z",
@@ -53,11 +62,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.6.1",
-      "versionDate": "2026-11-03T13:47:22Z",
-      "versionDescription": "Novedades de la 0.6.1:\n• Botón «Continuar con Google» con el logo de Google.\n• Bienvenida al entrar por primera vez: revisa tu nombre, pon tu teléfono (obligatorio), tu foto y tu nivel.\n• Tutorial de las pestañas para los nuevos jugadores.\n• Más interactiva: las tarjetas responden al tocarlas, hay confeti cuando tu equipo gana un enfrentamiento y los números y los iconos se animan.",
-      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.6.1-15/PadelNet.ipa",
-      "size": 4418494,
+      "version": "0.7.0",
+      "versionDate": "2026-11-06T09:33:42Z",
+      "versionDescription": "Novedades de la 0.7.0:\n• PadelNet estrena imagen: colores de pegatina, letra nueva, icono nuevo, una pelota que bota al arrancar y botones que se hunden al pulsarlos.\n• Inicio renovado: tu próximo partido en una pista azul con cuenta atrás, tu nivel en pegatina y la racha a todo color.\n• Live Activities de vuelta: el marcador en la pantalla de bloqueo y en la Dynamic Island, con cuenta atrás. Si usas LiveContainer no aparecen, el resto funciona igual.\n• Avisos más útiles: 3 horas y 30 minutos antes de cada partido y, si eres capitán, después para meter el resultado. Mantén pulsado un aviso para ver el partido, abrir cómo llegar o posponerlo una hora.",
+      "downloadURL": "https://github.com/Alexalmg/PadelNet-Builds/releases/download/v0.7.0-17/PadelNet.ipa",
+      "size": 4503964,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
